@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Contract &amp; PO Details" section_id="b40d22a7db8e2300e0c070adbf9619d4" sys_domain="global" table="x_297567_cr_contract_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor_reference_num</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 23:49:35</sys_created_on>
+            <sys_id>7d30f037dbc26300e0c070adbf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contract &amp; PO Details" display_value="Contract &amp; PO Details" name="x_297567_cr_contract_request" sys_domain="global" view="Default view">b40d22a7db8e2300e0c070adbf9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 23:49:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 23:49:35</sys_created_on>
+            <sys_id>fd30f037dbc26300e0c070adbf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contract &amp; PO Details" display_value="Contract &amp; PO Details" name="x_297567_cr_contract_request" sys_domain="global" view="Default view">b40d22a7db8e2300e0c070adbf9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 23:49:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_erp_contract_num</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 23:49:35</sys_created_on>
+            <sys_id>7130f037dbc26300e0c070adbf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contract &amp; PO Details" display_value="Contract &amp; PO Details" name="x_297567_cr_contract_request" sys_domain="global" view="Default view">b40d22a7db8e2300e0c070adbf9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 23:49:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_verified</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 23:49:35</sys_created_on>
+            <sys_id>f130f037dbc26300e0c070adbf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contract &amp; PO Details" display_value="Contract &amp; PO Details" name="x_297567_cr_contract_request" sys_domain="global" view="Default view">b40d22a7db8e2300e0c070adbf9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 23:49:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contract &amp; PO Details</caption>
+            <header>false</header>
+            <name>x_297567_cr_contract_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b40d22a7db8e2300e0c070adbf9619d4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Contract &amp; PO Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+            <sys_update_name>sys_ui_section_b40d22a7db8e2300e0c070adbf9619d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:20:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_contract_type" table="x_297567_cr_contract_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SaaS</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef7ba267db8e2300e0c070adbf9619cb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:14:02</sys_updated_on>
+            <value>digital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Operations</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f7ba267db8e2300e0c070adbf9619cd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:14:02</sys_updated_on>
+            <value>operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Travel Agencies</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:14:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a67cea67db8e2300e0c070adbf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:14:02</sys_updated_on>
+            <value>travel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b7ba267db8e2300e0c070adbf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:09:43</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e37ba267db8e2300e0c070adbf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:09:43</sys_updated_on>
+            <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af7ba267db8e2300e0c070adbf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:09:43</sys_updated_on>
+            <value>marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contract_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>External Labor</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:14:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>267cea67db8e2300e0c070adbf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:14:02</sys_updated_on>
+            <value>external</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_contract_type</element>
+            <name>x_297567_cr_contract_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 14:09:43</sys_created_on>
+            <sys_id>2b7ba267db8e2300e0c070adbf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_contract_type</sys_name>
+            <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+            <sys_update_name>sys_choice_x_297567_cr_contract_request_u_contract_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 14:09:43</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

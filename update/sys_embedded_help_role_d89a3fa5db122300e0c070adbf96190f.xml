@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_297567_cr.quotes_user" name="x_297567_cr.quotes_user">809a3fa5db122300e0c070adbf96190d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 01:03:03</sys_created_on>
+        <sys_id>d89a3fa5db122300e0c070adbf96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>809a3fa5db122300e0c070adbf96190d</sys_name>
+        <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d89a3fa5db122300e0c070adbf96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 01:03:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

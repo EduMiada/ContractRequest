@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_297567_cr_quotes">x_297567_cr_quotes</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>QUO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 01:03:05</sys_created_on>
+        <sys_id>649a3fa5db122300e0c070adbf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QUO</sys_name>
+        <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+        <sys_update_name>sys_number_649a3fa5db122300e0c070adbf96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 01:03:05</sys_updated_on>
+    </sys_number>
+</record_update>

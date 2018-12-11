@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>task</basic_apply_to>
+        <basic_query_from>x_297567_cr_quotes</basic_query_from>
+        <insert_callback/>
+        <name>Contract_Quotes</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('parent', parent.sys_id);]]></query_with>
+        <reference_field>parent</reference_field>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 01:10:05</sys_created_on>
+        <sys_id>e4aa7fa5db122300e0c070adbf9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contract_Quotes</sys_name>
+        <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+        <sys_update_name>sys_relationship_e4aa7fa5db122300e0c070adbf9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 01:10:05</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=e4aa7fa5db122300e0c070adbf9619ec"/>
+</record_update>

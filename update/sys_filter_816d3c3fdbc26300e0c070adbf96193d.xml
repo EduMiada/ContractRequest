@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="wf_context">active=true^workflow_version=372a94b7db826300e0c070adbf9619fd^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_table="wf_workflow_version" display_value="Contract Request Approval" endquery="false" field="workflow_version" goto="false" newquery="false" operator="=" or="false" value="372a94b7db826300e0c070adbf9619fd"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-05 00:47:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>816d3c3fdbc26300e0c070adbf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contract Request Approval</sys_name>
+        <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+        <sys_update_name>sys_filter_816d3c3fdbc26300e0c070adbf96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-05 00:47:10</sys_updated_on>
+        <table>wf_context</table>
+        <title>Contract Request Approval</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=816d3c3fdbc26300e0c070adbf96193d"/>
+</record_update>

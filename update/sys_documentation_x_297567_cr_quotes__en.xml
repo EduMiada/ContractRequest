@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Quotes" language="en" table="x_297567_cr_quotes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Quotes</label>
+            <language>en</language>
+            <name>x_297567_cr_quotes</name>
+            <plural>Quotes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-11 01:03:04</sys_created_on>
+            <sys_id>289a3fa5db122300e0c070adbf961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quotes</sys_name>
+            <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+            <sys_update_name>sys_documentation_x_297567_cr_quotes__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-11 01:03:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

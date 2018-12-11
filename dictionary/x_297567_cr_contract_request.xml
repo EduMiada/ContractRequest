@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Contract Request" max_length="40" name="x_297567_cr_contract_request" sizeclass="1" type="collection">
+        <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="u_amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="digital" label="Contract Type" mandatory="true" max_length="40" name="u_contract_type" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Operations" sequence="0" value="operations"/>
+                <element inactive_on_update="false" label="SaaS" sequence="0" value="digital"/>
+                <element inactive_on_update="false" label="Travel Agencies" sequence="1" value="travel"/>
+                <element inactive_on_update="false" label="Facilities" sequence="2" value="facilities"/>
+                <element inactive_on_update="false" label="Human Resources" sequence="3" value="hr"/>
+                <element inactive_on_update="false" label="Marketing" sequence="4" value="marketing"/>
+                <element inactive_on_update="false" label="External Labor" sequence="5" value="external"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ERP Contract #" max_length="40" name="u_erp_contract_num" type="string"/>
+        <element label="New HTML" max_length="65536" name="u_html_2" type="html"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Choice_1" label="Status" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice_1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice_2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice_3"/>
+            </choice>
+        </element>
+        <element label="Vendor" mandatory="true" max_length="32" name="u_vendor" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Reference #" max_length="40" name="u_vendor_reference_num" type="string"/>
+        <element label="Verified by purchase" max_length="40" name="u_verified" type="boolean"/>
+    </element>
+</database>

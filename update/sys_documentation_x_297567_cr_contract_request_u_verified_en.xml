@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_verified" label="Verified by purchase" language="en" table="x_297567_cr_contract_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_verified</element>
+            <help/>
+            <hint/>
+            <label>Verified by purchase</label>
+            <language>en</language>
+            <name>x_297567_cr_contract_request</name>
+            <plural>Verified by purchases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 15:27:32</sys_created_on>
+            <sys_id>1f4d7aefdb8e2300e0c070adbf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Verified by purchase</sys_name>
+            <sys_package display_value="Contract Request" source="x_297567_cr">28b62663db8e2300e0c070adbf961903</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Request">28b62663db8e2300e0c070adbf961903</sys_scope>
+            <sys_update_name>sys_documentation_x_297567_cr_contract_request_u_verified_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 15:27:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
